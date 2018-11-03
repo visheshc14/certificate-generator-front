@@ -1,7 +1,6 @@
 
 # Certificate-Front-End
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/e82fb0e25b614da3990f8460bd3499a4)](https://app.codacy.com/app/HarshHC/certificate-generator-front?utm_source=github.com&utm_medium=referral&utm_content=HarshHC/certificate-generator-front&utm_campaign=Badge_Grade_Dashboard)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b7346b7c5e914b53ab268896f536d20b)](https://www.codacy.com/app/visheshc14/certificate-generator-front?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=visheshc14/certificate-generator-front&amp;utm_campaign=Badge_Grade)
 Certificate Generator aims to automatically generate certificates based on the data provided using input files like CSV and Excel.
 
 ## Target Audience
